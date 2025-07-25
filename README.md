@@ -17,23 +17,23 @@ The dataset can be found [here](https://www.kaggle.com/datasets/prakharrathi25/b
 ## Dataset Description
 The dataset contains the following columns:
 
-age: Age of the customer
-job: Job type of the customer
-marital: Marital status of the customer
-education: Education level of the customer
-default: Indicates if the customer has credit in default (binary: "yes","no")
-balance: Account balance
-housing: Indicates if the customer has a housing loan (binary: "yes","no")
-loan: Indicates if the customer has a personal loan (binary: "yes","no")
-contact: Contact communication type
-day: Last contact day of the month
-month: Last contact month of the year
-duration: Last contact duration, in seconds
-campaign: Number of contacts performed during this campaign and for this client
-pdays: Number of days that passed by after the client was last contacted from a previous campaign
-previous: Number of contacts performed before this campaign and for this client
-poutcome: Outcome of the previous marketing campaign
-y: Has the client subscribed a term deposit? (binary: "yes","no")
+* age: Age of the customer
+* job: Job type of the customer
+* marital: Marital status of the customer
+* education: Education level of the customer
+* default: Indicates if the customer has credit in default (binary: "yes","no")
+* balance: Account balance
+* housing: Indicates if the customer has a housing loan (binary: "yes","no")
+* loan: Indicates if the customer has a personal loan (binary: "yes","no")
+* contact: Contact communication type
+* day: Last contact day of the month
+* month: Last contact month of the year
+* duration: Last contact duration, in seconds
+* campaign: Number of contacts performed during this campaign and for this client
+* pdays: Number of days that passed by after the client was last contacted from a previous campaign
+* previous: Number of contacts performed before this campaign and for this client
+* poutcome: Outcome of the previous marketing campaign
+* y: Has the client subscribed a term deposit? (binary: "yes","no")
 
 ## Requirements
 To run the EDA, you need the following libraries installed:
